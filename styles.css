@@ -1,0 +1,21 @@
+body{
+    background-color: red;
+}
+.main-container{
+    display: flex;
+    flex-direction: row;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.col{
+    display: flex;
+    flex-direction: column;
+}
+.debug{
+    background-color: hotpink;
+}
+button{
+    width:50px;
+}
